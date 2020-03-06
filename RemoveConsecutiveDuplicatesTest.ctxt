@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RemoveConsecutiveDuplicatesTest
+comment1.params=
+comment1.target=void\ testRemoveConsecutiveDuplicates1()
+comment2.params=
+comment2.target=void\ testRemoveConsecutiveDuplicates2()
+comment3.params=
+comment3.target=void\ testRemoveConsecutiveDuplicates3()
+numComments=4
